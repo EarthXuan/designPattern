@@ -1,4 +1,4 @@
-package com.ex.design.Pattern.proxypattern.staticProxy;
+package com.ex.design.Pattern.proxyPattern.staticProxy;
 
 /**
  * 代理人

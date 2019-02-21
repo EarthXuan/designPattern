@@ -1,4 +1,4 @@
-package com.ex.design.Pattern.proxypattern.dynamicProxy;
+package com.ex.design.Pattern.proxyPattern.staticProxy;
 
 /**
  * 代理接口
